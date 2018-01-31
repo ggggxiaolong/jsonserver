@@ -1,0 +1,169 @@
+{
+    "p_process": {
+        "code": 1,
+        "message": "success",
+        "data": [
+            {
+                "process": 98.4,
+                "materialMoneyLeft": 71890273891.56,
+                "basic": {
+                    "id": "m123n1293y19123g8",
+                    "name": "首地首城1-11栋防水工程",
+                    "process": 1,
+                    "state": 1,
+                    "managerId": "123n1o23h1231",
+                    "managerName": "张三丰",
+                    "partA": "甲方名称",
+                    "partAPhone": "1234456123124",
+                    "address": "吉林省长春市二道区净月大街5555号",
+                    "monitorCompanyId": "asdasdqwqder34154d4351",
+                    "monitorCompany": "首地首城监理公司",
+                    "monitorManager": "王大爷",
+                    "monitorManagerPhone": "133322223333",
+                    "designCompanyId": "asdasdqwqder34154d4351",
+                    "designCompany": "首地首城设计部",
+                    "designManager": "王小刚",
+                    "designManagerPhone": "14466668888",
+                    "costCompanyId": "asdasdqwqder34154d4351",
+                    "costCompany": "首地首城造价公司",
+                    "costManager": "王市",
+                    "costManagerPhone": "15566663333",
+                    "managerCompanyId": "asdasdqwqder34154d4351",
+                    "managerCompany": "首地首城管理公司",
+                    "managerManager": "王石",
+                    "mangerManagerPhone": "12299995555"
+                }
+            },
+            {
+                "process": 12.4,
+                "materialMoneyLeft": 71890273891.56,
+                "basic": {
+                    "id": "m123n1293y1912323g8",
+                    "name": "首地首城1-12栋防水工程",
+                    "process": 1,
+                    "state": 1,
+                    "managerId": "123n1o23h1231",
+                    "managerName": "张三丰",
+                    "partA": "甲方名称",
+                    "partAPhone": "1234456123124",
+                    "address": "吉林省长春市二道区净月大街5555号",
+                    "monitorCompanyId": "asdasdqwqder34154d4351",
+                    "monitorCompany": "首地首城监理公司",
+                    "monitorManager": "王大爷",
+                    "monitorManagerPhone": "133322223333",
+                    "designCompanyId": "asdasdqwqder34154d4351",
+                    "designCompany": "首地首城设计部",
+                    "designManager": "王小刚",
+                    "designManagerPhone": "14466668888",
+                    "costCompanyId": "asdasdqwqder34154d4351",
+                    "costCompany": "首地首城造价公司",
+                    "costManager": "王市",
+                    "costManagerPhone": "15566663333",
+                    "managerCompanyId": "asdasdqwqder34154d4351",
+                    "managerCompany": "首地首城管理公司",
+                    "managerManager": "王石",
+                    "mangerManagerPhone": "12299995555"
+                }
+            }
+        ]
+    },
+    "h_todo": {
+        "code": 1,
+        "message": "success",
+        "data": [
+            {
+                "name": "审批",
+                "time": "2017-09-26 08:00",
+                "action": "project/detail",
+                "project": {
+                    "id": "m123n1293y19123g8",
+                    "name": "首地首城1-11栋防水工程",
+                    "process": 1,
+                    "state": 1,
+                    "managerId": "123n1o23h1231",
+                    "managerName": "张三丰",
+                    "partA": "甲方名称",
+                    "partAPhone": "1234456123124",
+                    "address": "吉林省长春市二道区净月大街5555号",
+                    "monitorCompanyId": "asdasdqwqder34154d4351",
+                    "monitorCompany": "首地首城监理公司",
+                    "monitorManager": "王大爷",
+                    "monitorManagerPhone": "133322223333",
+                    "designCompanyId": "asdasdqwqder34154d4351",
+                    "designCompany": "首地首城设计部",
+                    "designManager": "王小刚",
+                    "designManagerPhone": "14466668888",
+                    "costCompanyId": "asdasdqwqder34154d4351",
+                    "costCompany": "首地首城造价公司",
+                    "costManager": "王市",
+                    "costManagerPhone": "15566663333",
+                    "managerCompanyId": "asdasdqwqder34154d4351",
+                    "managerCompany": "首地首城管理公司",
+                    "managerManager": "王石",
+                    "mangerManagerPhone": "12299995555"
+                }
+            },
+            {
+                "name": "质量问题",
+                "time": "2017-09-26 08:00",
+                "action": "problem/project",
+                "project": {
+                    "id": "m123n1293y19123g823",
+                    "name": "首地首城1-11栋防水工程",
+                    "process": 1,
+                    "state": 1,
+                    "managerId": "123n1o23h1231",
+                    "managerName": "张三丰",
+                    "partA": "甲方名称",
+                    "partAPhone": "1234456123124",
+                    "address": "吉林省长春市二道区净月大街5555号",
+                    "monitorCompanyId": "asdasdqwqder34154d4351",
+                    "monitorCompany": "首地首城监理公司",
+                    "monitorManager": "王大爷",
+                    "monitorManagerPhone": "133322223333",
+                    "designCompanyId": "asdasdqwqder34154d4351",
+                    "designCompany": "首地首城设计部",
+                    "designManager": "王小刚",
+                    "designManagerPhone": "14466668888",
+                    "costCompanyId": "asdasdqwqder34154d4351",
+                    "costCompany": "首地首城造价公司",
+                    "costManager": "王市",
+                    "costManagerPhone": "15566663333",
+                    "managerCompanyId": "asdasdqwqder34154d4351",
+                    "managerCompany": "首地首城管理公司",
+                    "managerManager": "王石",
+                    "mangerManagerPhone": "12299995555"
+                }
+            }
+        ]
+    },
+    "h_notes": {
+        "code": 1,
+        "message": "success",
+        "data": [
+            "您的××项目已经通过审核",
+            "您的××项目已经通过审核",
+            "您的××项目已经通过审核"
+        ]
+    },
+    "u_login": {
+        "code": 1,
+        "message": "success",
+        "data": {
+            "name": "张三",
+            "username": "asdasd",
+            "position": "manger",
+            "positionName": "总经理",
+            "avatar": "http://asdsadasd.png",
+            "token": "asdw123sqe2314145wdf234asdf2345sdfqw"
+        }
+    },
+    "u_updatePassword": {
+        "code": 1,
+        "message": "success"
+    },
+    "u_logout": {
+        "code": 1,
+        "message": "success"
+    }
+}

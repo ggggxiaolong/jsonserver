@@ -1,0 +1,7 @@
+{
+	"/project/process":"/p_process",
+	"/home/notes":"/h_notes",
+	"/user/login":"/u_login",
+	"/user/updatePassword":"/updatePassword",
+	"/user/logout":"/u_logout"
+}
